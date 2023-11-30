@@ -15,5 +15,3 @@
 ![alt text](https://github.com/ashutoshm1771/Covid19-Tracker/blob/main/covid19_tracker/ScreenShots/8.jpg?raw=true)
 
 
-
-![image](https://github.com/ashutoshm1771/Covid19-Tracker/assets/48184601/788f1c3f-c7a2-42ed-9d2a-947151939403)
